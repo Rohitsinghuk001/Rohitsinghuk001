@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💻 Full Stack JavaScript Developer<br><br>⚡ Frontend: HTML, CSS, JavaScript, React<br>⚙️ Backend: Node.js, Express.js<br>🗄️ Database: MongoDB<br>
+💻 Full Stack JavaScript Developer<br><br>⚡ Frontend: HTML, CSS, JavaScript, React<br>⚙️ Backend: Node.js, Express.js<br>🗄️ Database: MongoDB, Postgres SQL<br>
 
 
 ## 🌐 Socials:
